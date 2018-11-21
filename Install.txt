@@ -1,0 +1,15 @@
+the Eclipse Project is in the folder "OpenGL Experiment"
+
+To locate the source code go to OpenGL Experiment/src.. all the classes and code can be found there.
+
+The assets used for the program is present in Open GL Experiment/asset folder.
+
+The .exe file and .jar file is given. Double clicking on either of them should run the program. You will need JRE 1.7 (minimum) to run.
+
+Java Runtime Environment Download Link: https://dl1.filehippo.com/76c31dd336114291b7903008be40f5a5/jre-7u17-windows-x64.exe?ttl=1541363726&token=42928cd4baa9658159ed55204d767208
+
+
+
+Keep in mind that for running the game from Eclipse, you may need to add the openGL libraries into the build path.
+
+Thank you.
