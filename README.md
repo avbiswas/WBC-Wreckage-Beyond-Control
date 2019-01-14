@@ -8,7 +8,8 @@ and at the time, I had no prior experience with OpenGL. (Hence, the rather unusu
 
 The decision gave me one of the toughest projects of my life. 10 days and 3000+ lines of Java code later, I can safely say that this was the most educative and satisfying.
 
-I invite you to start by downloading the game from : https://github.com/shekavi/WBC-Wreckage-Beyond-Control/blob/master/WBC%20game.jar
+I invite you to start by downloading the game from : https://github.com/shekavi/WBC-Wreckage-Beyond-Control/blob/master/WBC%20game.jar .
+
 The installation instruction(if required) is given in https://github.com/shekavi/WBC-Wreckage-Beyond-Control/blob/master/Install.txt
 
 Instructions can be found in:
